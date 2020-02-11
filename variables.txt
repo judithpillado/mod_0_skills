@@ -1,0 +1,10 @@
+food = 'pasta'
+is_new = 3
+food = 'burger'
+num1 = 5
+num2 = 7
+num1*num2 = 35
+num3 = 35
+movies = ["Romantic", "comedy" "Horror"]
+movies.length = 3
+delete.movies
