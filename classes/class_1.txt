@@ -1,0 +1,13 @@
+Burger
+
+buns (integer)
+cheese (array)
+name (string)
+does_it_have_vegetables (boolean)
+total_weight (float)
+current_weight (float)
+
+Methods:
+add_cheese (adds cheese to the end of the cheese array)
+tomato (sets does_it_have_vegetables to true)
+calculate_percent_remaining (divide current_weight/total weight and multiply result x 100)
