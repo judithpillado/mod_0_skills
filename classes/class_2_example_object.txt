@@ -1,13 +1,15 @@
 Classic Chopped Salad
 
 Attributes:
-name: 'Chuck Chopped Salad'
-does_it_have_meat: true
+name: "Chuck Chopped Salad"
+with_meat: true
 total_weight: 2.2
 current_weight: 1.7
-leaf: ["Kale", "Spinach"]
+leaves: ["Kale", "Spinach"]
+caramelized_mushroom: false
 
 Methods:
 calculate_percent_remaining: 1.7/2.2 = .772 x 100 = 77.2%
-bacon: does_it_have_meat = true
+bacon: with_meat = true
 add_leaf: ["Kale", "Spinach", "Romanian Lettuce"]
+fresh_mushroom: caramelized_mushroom = false
