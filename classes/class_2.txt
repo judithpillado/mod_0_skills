@@ -2,12 +2,14 @@ Salad
 
 Attributes:
 name (string)
-does_it_have_meat (boolean)
+with_meat (boolean)
 total_weight (float)
 current_weight (float)
-leaf (array)
+leaves (array)
+caramelized_mushroom (boolean)
 
 Methods:
 calculate_percent_remaining (divide current_weight/total weight and multiply result x 100)
-bacon (sets does_it_have_meat to true)
-add_leaf (adds leaf to the end of the leaf array)
+bacon (sets with_meat to true)
+add_leaf (add a leaf to the end of the leaves array)
+fresh_mushroom (sets caramelized_mushroom to false)
