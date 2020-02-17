@@ -2,13 +2,16 @@ Classic steak Burger
 
 Attributes:
 buns: 2
-cheese: ["Colby Jack", "Muenster"]
-name: 'Chuck burger'
-does_it_have_vegetables: true
+cheeses: ["Colby Jack", "Muenster"]
+name: "Chuck burger"
+with_vegetables: true
 total_weight: 3.2
 current_weight: 1.5
+wheat_buns: false
 
 Methods:
 add_cheese: ["Colby Jack", "Muenster", "Parmesan"]
-tomato: does_it_have_vegetables = true
+tomato: with_vegetables = true
 calculate_percent_remaining: 1.5/3.2 = .468 x 100 = 46.8%
+white_bread: wheat_buns = false
+bite: current_weight = 1.2
