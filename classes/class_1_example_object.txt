@@ -7,11 +7,11 @@ name: "Chuck burger"
 with_vegetables: true
 total_weight: 3.2
 current_weight: 1.5
-wheat_buns: false
+wheat_buns: true
 
 Methods:
 add_cheese: ["Colby Jack", "Muenster", "Parmesan"]
-tomato: with_vegetables = true
+insert_tomato: with_vegetables = true
 calculate_percent_remaining: 1.5/3.2 = .468 x 100 = 46.8%
-white_bread: wheat_buns = false
+abolish_white_buns: wheat_buns = true
 bite: current_weight = 1.2
