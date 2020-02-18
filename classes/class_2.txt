@@ -10,6 +10,6 @@ caramelized_mushroom (boolean)
 
 Methods:
 calculate_percent_remaining (divide current_weight/total weight and multiply result x 100)
-bacon (sets with_meat to true)
+mix_bacon (sets with_meat to true)
 add_leaf (add a leaf to the end of the leaves array)
-fresh_mushroom (sets caramelized_mushroom to false)
+include_fresh_mushroom (sets caramelized_mushroom to false)
