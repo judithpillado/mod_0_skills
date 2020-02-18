@@ -10,6 +10,6 @@ caramelized_mushroom: false
 
 Methods:
 calculate_percent_remaining: 1.7/2.2 = .772 x 100 = 77.2%
-bacon: with_meat = true
+mix_bacon: with_meat = true
 add_leaf: ["Kale", "Spinach", "Romanian Lettuce"]
-fresh_mushroom: caramelized_mushroom = false
+include_fresh_mushroom: caramelized_mushroom = false
