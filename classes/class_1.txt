@@ -11,7 +11,7 @@ wheat_buns (boolean)
 
 Methods:
 add_cheese (adds cheese to the end of the cheeses array)
-tomato (sets with_vegetables to true)
+insert_tomato (sets with_vegetables to true)
 calculate_percent_remaining (divide current_weight/total weight and multiply result x 100)
-white_bread (sets wheat_buns to false)
+abolish_white_buns (sets wheat_buns to true)
 bite (removes .3 from current_weight)
